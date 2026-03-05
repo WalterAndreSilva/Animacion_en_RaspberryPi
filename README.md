@@ -1,13 +1,13 @@
 # Animación en Raspberry Pi
-### Laboratorio de Organización del computador (FAMAF-UNC)
+### Laboratorio de Organización del Computador (FAMAF-UNC)
 
-Este repositorio contiene el código de una animación ejecutada en una Raspberry Pi 3, emulada mediante QEMU.
+Este repositorio contiene el código de una animación ejecutada en una Raspberry Pi 3b, emulada mediante QEMU.
 
 La pantalla está configurada con una resolución de 640×480 píxeles utilizando el formato de color ARGB de 32 bits.
 
 La animación se genera escribiendo directamente en la memoria del framebuffer, estableciendo el color de cada píxel que posteriormente es renderizado en la pantalla.
 
-![captura](url "captura")
+![captura](https://github.com/WalterAndreSilva/Animacion_en_RaspberryPi/blob/main/animacion/captura.gif "captura")
 
 
 ## Instalar Qemu
